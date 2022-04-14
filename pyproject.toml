@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "movies-app"
+name = "django-poetry-basic-api"
 version = "0.1.0"
 description = ""
 authors = ["André Kovac <me@andrekovac.com>"]
