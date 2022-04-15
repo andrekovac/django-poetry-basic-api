@@ -15,6 +15,16 @@ The JSON response can be reached at <http://127.0.0.1:8000/api/albums/>
 5. Run `python manage.py runserver`
 6. Go to <http://127.0.0.1:8000/api/albums/> to view the JSON response
 
+## Concepts
+
+### URL patterns
+
+See `albums/urls.py` and `backend/urls.py`
+
+### Data returning view
+
+See `albums/views.py`
+
 ## Re-create this project
 
 Check out [HOW_TO.md](./HOW_TO.md) to see how this project got created step-by-step
